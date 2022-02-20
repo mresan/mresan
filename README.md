@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mresan
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Dart Programming and Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Flutter UI
+- 🌱 I’m currently learning Dart Programming Language and Flutter
+
 
 <!---
 mresan/mresan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
